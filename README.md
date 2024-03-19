@@ -1,3 +1,3 @@
 # spotify
 
-<img src ="./public/image/Openears.png">
+<img src="./public/image/Openears.png">
